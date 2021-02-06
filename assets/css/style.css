@@ -22,7 +22,7 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* instead of a div for the header, used nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -30,7 +30,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* combined styling */
 ul, li {
     display: inline-block;
     margin-left: 25px;
@@ -45,7 +45,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* added hero as a figure element */
 .hero {
     height: 800px;
     width: 100%;
@@ -95,7 +95,7 @@ h2 {
     font-size: 36px;
 }
 
-
+/* aside used for information on the right sidebar */
 aside {
     margin-right: 20px;
     padding: 20px;
